@@ -2,7 +2,7 @@
 A project using OpenCV and Mediapipe, that detects exact matrix positions of hands and uses known database of movements to interpret the tracked positions of hands into words. Converts sign into understandable language.
 
 Main Library Used:
-Mediapipe: Accurate and reliable
+Mediapipe- Accurate and reliable
              Built-in detection / Already made code and no need for training
              Code is easy enough to understand with help of AI such as GPT or DeepSeek
              It is an open source documentation, and enough sample codes and tutorials available to modify code to suit my purpose
