@@ -13,5 +13,8 @@ I learnt about MediaPipe, a ML based library by google, which provides ready-mad
 Looked around for different Mediapipe codes, and researched a bit as to how I can change it....Made note of code variations and referred to codes by other programmers on GitHUb to see how I could modify the code to suit my purpose of detecting hand gestures through a webcam.
 In short, I followed references, understood them, and modified the logic.
 
+The file SignLangDemo1.mp4 depicts my final trial of the inital code, however it uses only one hand. This was done for simplicity, and I later extended the system to support multi-hand tracking by updating MediaPipe parameters and adding iterations. (While alphabets in sign language can be conveyed using a single hand, both hands are often required to hold complete conversations)
+
+
 I started with a simple procedural version, then refactored it into a class once I understood the pipeline.
 
